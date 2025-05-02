@@ -1,23 +1,14 @@
-## 💫 Oi, sou Niccolas Kaiá! 👋
+## 💫 Hi, I'm Niccolas Kaiá! 👋
 
 <br> :email: niccolas.kaia@al.infnet.edu.br
 <br> :iphone: 92 98822-5451 <br/>
 
-[EN]
 ### 💫 About me:
 
-<br>- 🧑🏻‍💻 I work in IT with an emphasis on: data analysis, information security, computer networks, support and web development. 
 <br>- 🧑🏻‍🎓 Information Technology student at the Infnet Institute (4/5). 
 <br>- 🧠 I'm currently perfecting my skills in data analysis, python programming, cloud computing and containerization.
+<br>- 🧑🏻‍💻 My fields of interest are Data Science/Analytics, Cyber Security and IT Governance.
 <br>- 🌱 I'm in a career transition after years of working in graphic design, UX/UI, marketing and visual communication. 
-
-[BR]
-### 💫 Sobre mim:
-
-<br>- 🧑🏻‍💻 Trabalho com tecnologia da informação com ênfase em: análise de dados, segurança da informação, redes de computadores, suporte e desenvolvimento web. <br/>
-<br>- 🧑🏻‍🎓 Estudante de Tecnologia da Informação no Instituto Infnet, modalidade live noturna (4/5). <br/>
-<br>- 🧠 Atualmente estou me aperfeiçoando em análise de dados, programação com python, Cloud Computing e Conteinerização. <br/>
-<br>- 🌱 Estou em transição de carreira depois de anos trabalhando com design gráfico, UX/UI, marketing e comunicação visual. <br/>
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kaiasbrito/) 
